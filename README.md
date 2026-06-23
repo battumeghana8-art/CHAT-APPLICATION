@@ -44,8 +44,11 @@ The application includes several important features:
 * Cross-browser compatibility.
 These features make the application suitable for demonstrating modern real-time web development concepts and communication technologies.
 
-## Conclusion
+## Conclusion :
 
 The Chat Application successfully demonstrates the implementation of a real-time messaging system using modern web development technologies. By integrating HTML, CSS, JavaScript, Node.js, Express.js, and Socket.IO, a fully functional communication platform was developed that allows users to exchange messages instantly. The project provided practical experience in frontend development, backend development, real-time communication, and client-server architecture.
 This project serves as a strong foundation for future enhancements such as user authentication, private messaging, chat rooms, message history storage, file sharing, emoji support, and notification systems. Overall, the Chat Application is an effective demonstration of how real-time web technologies can be used to build interactive and scalable communication platforms.
+
+# output :
+<img width="1907" height="960" alt="Image" src="https://github.com/user-attachments/assets/7d816de7-62cd-4841-928f-238fa5da0fe9" />
 
