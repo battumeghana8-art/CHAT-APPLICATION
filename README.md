@@ -25,9 +25,13 @@ Several technologies and tools were used during the development of this project:
 
 # Development Process : 
 -->The project development began with designing the user interface using HTML and CSS. A clean chat layout was created containing a message display area, user input field, and send button. Special attention was given to maintaining a simple and intuitive design so that users can easily interact with the application.
+
 -->After completing the frontend design, JavaScript was used to add functionality and manage user interactions. Event handlers were implemented to capture user messages and send them to the server.
+
 -->The backend was then developed using Node.js and Express.js. A server was created to handle incoming client connections and manage communication requests. Socket.IO was integrated into the server to provide real-time messaging capabilities. Whenever a client sends a message, Socket.IO instantly transmits that message to the server, which then broadcasts it to all connected users.
+
 -->The frontend and backend were connected through Socket.IO, enabling live communication between users. Extensive testing was performed to ensure messages were delivered correctly, multiple users could connect simultaneously, and the application remained stable during communication.
+
 # Features :
 The application includes several important features:
 
